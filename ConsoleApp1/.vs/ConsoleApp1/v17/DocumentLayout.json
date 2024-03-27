@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Israel\\aspnetcore\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{437301E3-C042-4C76-AC1C-D086CC74F5D2}|ConsoleApp1\\ConsoleApp1.csproj|c:\\israel\\aspnetcore\\consoleapp1\\consoleapp1\\hello.c||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437301E3-C042-4C76-AC1C-D086CC74F5D2}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\hello.c||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hello.c",
+              "DocumentMoniker": "C:\\Israel\\aspnetcore\\ConsoleApp1\\ConsoleApp1\\hello.c",
+              "RelativeDocumentMoniker": "ConsoleApp1\\hello.c",
+              "ToolTip": "C:\\Israel\\aspnetcore\\ConsoleApp1\\ConsoleApp1\\hello.c",
+              "RelativeToolTip": "ConsoleApp1\\hello.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-04T20:49:04.384Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
